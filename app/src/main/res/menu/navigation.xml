@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home__2_"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/navigation_barbell_dumble"
+        android:icon="@drawable/barbel"
+        android:title="@string/barbell_dumble"/>
+    <item
+        android:id="@+id/navigation_discover"
+        android:icon="@drawable/discover"
+        android:title="Discover"/>
+
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/setting__1_"
+        android:title="Settings"/>
+</menu>
